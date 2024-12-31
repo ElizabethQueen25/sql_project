@@ -54,7 +54,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-Insights encontrados:
+Resultados encontrados:
 -  **Amplia gama de salarios:** El rango salarial promedio oscila entre $375,000 y $650,000 anuales. Esto resalta la competitividad de los trabajos remotos dentro del mercado.
 - **Empresas líderes:** Se encuentran compañías bien establecidas  y dispuestas a atraer  talento remoto.
 - **Oportunidad para el análisis comparativo:** Con este enfoque inicial, se realizara el análisis que comparen los salarios de trabajos remotos y presenciales para comprender las diferencias salariales dependiendo de la modalidad de trabajo.
@@ -105,7 +105,7 @@ skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 ```
-Insight:
+Resultados:
 
 En los trabajos mejor pagados para analistas de datos, las habilidades más mencionadas son:
 
@@ -134,7 +134,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 ```
-Insight:
+Resultados:
 
 1. Habilidades técnicas clave: SQL lidera con 7291 menciones, seguido por Excel (4611) y Python (4330), reflejando su importancia en el análisis de datos.
 2. Enfoque en herramientas de análisis: El dominio de herramientas como Tableau y Power BI también es esencial para destacarse en el campo.
@@ -169,7 +169,7 @@ ORDER BY
     avg_salary DESC
 LIMIT 25;
 ```
-Insight:
+Resultados:
 
 - **Alta demanda de habilidades en Big Data y Machine Learning:**
 Los salarios más altos están asociados con tecnologías de big data como PySpark y Couchbase, herramientas de machine learning como DataRobot, y bibliotecas de Python como Pandas y NumPy. Esto refleja el alto valor que la industria otorga a las capacidades de procesamiento de datos y modelos predictivos.
@@ -240,7 +240,7 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-Insight:
+Resultados:
 
 El análisis identifica habilidades que combinan alta demanda y altos salarios promedio para analistas de datos. Entre las principales, destacan:
 
@@ -291,7 +291,7 @@ LIMIT 5;
 
 *Tabla de las empresas con mayor cantidad de ofertas de trabajo para analistas de datos*
 
-Insight:
+Resultado:
 
 Las empresas que más ofertas de trabajo publican para analistas de datos son Emprego (1121 ofertas) y Robert Half (1047 ofertas), seguidas por Insight Global, Citi, y Dice. Estas empresas lideran la demanda, indicando sectores con alta necesidad de análisis de datos y oportunidades laborales significativas.
 
@@ -327,7 +327,7 @@ Esta comparación subraya el atractivo de los trabajos remotos, especialmente pa
 
 #### Comparativa salarios remotos vs no remotos:
 
-Insight:
+Resultados:
 
 - **Salarios de trabajos remotos:**
 Los trabajos remotos muestran un rango más amplio en los salarios, destacando posiciones como Data Analyst en Mantys con $650,000 USD anuales, significativamente más altos que los trabajos no remotos promedio.
