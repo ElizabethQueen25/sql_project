@@ -146,6 +146,7 @@ Insight:
 | Python      | 4330                 |
 | Tableau     | 3745                 |
 | Power BI    | 2609                 |
+
 *Tabla que refleja la demanda de las 5 habilidades principales en ofertas de empleo para analistas de datos*
 
 ### 4. ¿Qué habilidades están asociadas con salarios más altos?
@@ -184,6 +185,7 @@ Los salarios más altos están asociados con tecnologías de big data como PySpa
 | Couchbase    | 160515                |
 | Watson       | 160515                |
 | DataRobot    | 155486                |
+
 *Tabla del salario promedio para las 10 habilidades mejor remuneradas para analistas de datos*
 
 ### 5. ¿Cuáles son las habilidades más óptimas para aprender?
@@ -253,6 +255,7 @@ El análisis identifica habilidades que combinan alta demanda y altos salarios p
 | Hadoop       | 22                     | 113193                |
 | Snowflake    | 37                     | 112948                |
 | Azure        | 34                     | 111225                |
+
 *Tabla de las habilidades más óptimas para analistas de datos ordenadas por salario*
 
 ### 6. ¿Qué empresas publican más ofertas de trabajo para analistas de datos?
@@ -285,6 +288,7 @@ LIMIT 5;
 | Insight Global | 892                 |
 | Citi           | 875                 |
 | Dice           | 604                 |
+
 *Tabla de las empresas con mayor cantidad de ofertas de trabajo para analistas de datos*
 
 Insight:
@@ -303,7 +307,7 @@ El análisis de los salarios promedio para analistas de datos según la ubicaci�
 | Hildesheim, Germany       | 200000               |
 | Merced, CA                | 200000               |
 
-
+*Tabla de salarios promedio por ubicación*
 
 - Belarus lidera con un salario promedio de $400,000 USD, lo que podría indicar posiciones específicas de alta especialización o demanda localizada.
 - Otras ubicaciones como Berkeley Heights, NJ y Nea Smyrni, Greece tienen salarios de $200,000 USD, destacando oportunidades internacionales competitivas.
@@ -345,6 +349,8 @@ Los trabajos no remotos muestran variaciones salariales específicas basadas en 
 | Data Analyst, Marketing           | 232423               |
 | Data Analyst (Hybrid/Remote)      | 217000               |
 
+*Tabla de salarios promedio trabajo remoto*
+
 **Salarios de Trabajos no Remotos**
 
 | Ubicación                 | Salario Promedio (USD) |
@@ -354,6 +360,8 @@ Los trabajos no remotos muestran variaciones salariales específicas basadas en 
 | Nea Smyrni, Greece        | 200000               |
 | Hildesheim, Germany       | 200000               |
 | Merced, CA                | 200000               |
+
+*Tabla de salarios promedio por ubicación*
 
 Esta comparación subraya el atractivo de los trabajos remotos, especialmente para roles especializados que no dependen de la presencia física en una ubicación específica.
 
